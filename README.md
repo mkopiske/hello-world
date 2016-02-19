@@ -1,4 +1,5 @@
 # hello-world
 First project ever
 
-now I try to play around with this editing features
+
+I delete this stuff and replace it with other doodles.
